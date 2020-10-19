@@ -2,9 +2,13 @@ from selenium import webdriver
 
 base_url = "http://drr.land.gov.bd/khatian/"
 
+print("Enter search starting point : ")
 suffix_from = int(input())
+print("Enter search starting point : ")
 suffix_to = int(input())
+print("Enter search filter string : ")
 search_string = input()
+
 # suffix_from = 15654000
 # suffix_to = 15654100
 # search_string = "নীলফামারী টাউন"
