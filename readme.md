@@ -14,5 +14,3 @@ Output
 
 A text file named khotian_output.txt will be generated. It will contain the found 
 khotian url and data matching with the filter string withing the given range.
-
-

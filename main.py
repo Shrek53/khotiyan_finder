@@ -9,10 +9,6 @@ suffix_to = int(input())
 print("Enter search filter string : ")
 search_string = input()
 
-# suffix_from = 15654000
-# suffix_to = 15654100
-# search_string = "নীলফামারী টাউন"
-
 driver = webdriver.Firefox()
 f = open("khotian_output.txt", "a")
 
